@@ -1,3 +1,4 @@
 ﻿Git is a control system
 Git is free software distributed under the GPL
 my first modift two modift
+Git has a mutable index call stage.
